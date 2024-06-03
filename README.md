@@ -13,6 +13,9 @@ Among both the models, random forest showed lesser rmse and more r2_score indica
 
 ### Prediction
 The web application provides a user-friendly interface for predicting house prices in Bangalore based on several input features. 
+Check this screenshot of how the webpage looks like:
+
+
 <img width="941" alt="image" src="https://github.com/madhu-smita-behera/Bangalore-House-Price-Prediction-Model/assets/164523849/c2fe3391-1991-4ce1-9101-10155e4d1a34">
 
 
